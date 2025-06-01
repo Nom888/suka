@@ -1,3 +1,8 @@
 {
-  "image": "ubuntu:latest"
+  "image": "ubuntu:latest",
+  "hostRequirements": {
+    "cpus": 2,
+    "memory": "8gb",
+    "storage": "33gb"
+  }
 }
