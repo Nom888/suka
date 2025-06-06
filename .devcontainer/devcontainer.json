@@ -1,4 +1,5 @@
 {
+  "name": "Goverse",
   "image": "ubuntu:latest",
   "hostRequirements": {
     "cpus": 8,
