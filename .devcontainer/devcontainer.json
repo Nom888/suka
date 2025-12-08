@@ -1,3 +1,7 @@
 {
-  "image": "ubuntu:24.04"
+  "name": "Python Ubuntu",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [8080]
 }
