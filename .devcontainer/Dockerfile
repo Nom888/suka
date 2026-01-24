@@ -1,1 +1,1 @@
-FROM ubuntu:24.04
+FROM archlinux:latest
